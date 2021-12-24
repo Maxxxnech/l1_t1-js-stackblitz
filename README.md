@@ -39,11 +39,11 @@ cloud {
   }
 }
 
-src --> mainChunk
+src ---> mainChunk
 nodeModules --> vendorMainChunk
 manifestLocal --> manifest
 faviconLocal --> favicon
-indexLocal --> index
+indexLocal ---> index
 
 bundle -right-> index
 mainChunk -down-> index
