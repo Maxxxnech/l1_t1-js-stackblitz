@@ -51,12 +51,17 @@ vendorMainChunk -down-> index
 manifest -down-> index
 favicon -down-> index
 @enduml
+
 ```
 
 UML is **very** ~~convoluted~~ convinient!
 
-|: Name1 |: name2 |
-|: ..... |: ..... |
-|: val 1 |: val 2 |
+| Attribute           |    AngularJS    | Angular 2  |    React |
+| :------------------ | :-------------: | :--------: | -------: |
+| Author              |     Google      |   Google   | Facebook |
+| Language            | JavaScript/HTML | TypeScript |      JSX |
+| Size                |      143k       |    764k    |     151k |
+| Github Stars        |      46.4k      |    8.4k    |    34.4k |
+| Github Contributors |      1,386      |    189     |      604 |
 
 ![robot-arms](https://www.shutterstock.com/ru/image-vector/isometric-automated-robot-arms-smart-robotic-1106121227 'robot-arms')
